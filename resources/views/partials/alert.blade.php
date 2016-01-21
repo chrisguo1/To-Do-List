@@ -1,0 +1,1 @@
+<script>alert("You can't access this unless you restore it");</script>
